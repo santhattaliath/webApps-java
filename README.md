@@ -4,24 +4,8 @@
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Toxic Comments Classifier App
 
-> Subtitle or Short Description Goes Here
+> simple J2EE app using a microservice backend
 
-> ideally one sentence
-
-> include terms/tags that can be searched
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
+> user enters toxic sentence that is classified as a multiclass based on a microservice published on Algorithmia
